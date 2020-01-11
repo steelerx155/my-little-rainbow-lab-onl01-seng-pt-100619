@@ -14,10 +14,10 @@ div {
 }
 #orange {
   border-top-color: #ffa500;
-/*}*/
-/*#yellow {*/
-/*  border-top-color: #ff0;*/
-/*}*/
+}
+#yellow {
+  border-top-color: #ff0;
+}
 #green {
   border-top-color:  #00bc3f;
 }
@@ -27,6 +27,6 @@ div {
 #indigo {
   border-top-color: #8a2be2
 }
-#violet {
-  border-top-color: #d300c9
-}
+/*#violet {*/
+/*  border-top-color: #d300c9*/
+/*}*/
